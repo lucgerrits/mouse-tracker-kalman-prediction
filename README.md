@@ -12,7 +12,7 @@ This is a fun Python application that tracks your mouse pointer in real time and
 - **Interactive:** Works interactively as you move the mouse.
 
 
-<div style="text-align:center"><img src="image.png" alt="Example" style="max-width:30%;heigth:auto"/></div>
+<p align="center"><img src="image.png" alt="Example" style="width:300px"/></p>
 
 ## How It Works
 
