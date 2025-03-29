@@ -1,4 +1,4 @@
-# Funny Pointer Kalman Filter Program
+# Funny Mouse Pointer Prediction using Kalman Filter
 
 This is a fun Python application that tracks your mouse pointer in real time and uses a Kalman filter to predicts where it's going to move next. The program smooths the noisy pointer data and predicts its velocity, displaying an arrow on a Tkinter canvas along with a live velocity plot using Matplotlib.
 
